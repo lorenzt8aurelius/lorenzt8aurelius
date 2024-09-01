@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Lorenz Jay Candidier</h1>
 <h3 align="center">A passionate student programmer from the Philippines</h3>
