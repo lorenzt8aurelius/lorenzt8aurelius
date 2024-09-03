@@ -1,4 +1,3 @@
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/bGgsc5mWoryfgKBx1u")
 <h1 align="center">The name is Lorenz Jay Candidier</h1>
 <h3 align="center">A passionate student programmer from the Philippines</h3>
 
