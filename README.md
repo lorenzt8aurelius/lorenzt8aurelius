@@ -1,5 +1,6 @@
 <h1 align="center">The name is Lorenz Jay Candidier</h1>
-<h3 align="center">A passionate student programmer from the Philippines</h3>
+<h3 align="center">An aspiring software engineer: 
+  A student programmer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo" /> </p>
 
