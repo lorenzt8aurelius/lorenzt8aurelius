@@ -1,4 +1,4 @@
-<h1 align="center">The name is Lorenz Jay Candidier</h1>
+<h1 align="center">Lorenzo Dev</h1>
 <h3 align="center">An aspiring software engineer: 
   A student programmer from the Philippines</h3>
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Lorenzheem@gmail.com**
 
-- ⚡ Fun fact **I'm a fun guy and loves to sketch**
+- ⚡ Fun fact **Always gettin' up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
