@@ -1,5 +1,5 @@
 <h1 align="center">Lorenzo Dev</h1>
-<h3 align="center">An aspiring software engineer: 
+<h3 align="center">An spiring Developer: 
   A student programmer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo" /> </p>
