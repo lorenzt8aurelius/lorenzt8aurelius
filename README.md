@@ -1,4 +1,4 @@
-<h1 align="center">Lorenzo Dev</h1>
+<h1 align="center">Lorenz Jay Candidier</h1>
 <h3 align="center">An spiring Developer: 
   A student programmer from the Philippines</h3>
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Lorenzheem@gmail.com**
 
-- ⚡ Fun fact **Always gettin' up**
+- ⚡ Fun fact **Prefered system over goals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
