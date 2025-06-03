@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo" /> </p>
 
-- 📫 How to reach me **Lorenzheem@gmail.com**
+- 📫 How to reach me **Lorenzheem@gmail.com
+- t8aureliuslorenzo@gmail.com**
 
 - ⚡ Fun fact **Prefered system over goals**
 
